@@ -15,3 +15,5 @@ class TestIsOdd(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+print("This is a test")
